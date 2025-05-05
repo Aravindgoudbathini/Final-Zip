@@ -1,4 +1,4 @@
-# Final-Zip
+# Inventory Management Systems
 Project Overview
 
 Developed a comprehensive Inventory Management System (IMS) for Royal Organization Retailers using Python Tkinter for GUI and MySQL for database management
